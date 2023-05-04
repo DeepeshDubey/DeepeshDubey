@@ -32,3 +32,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepeshdubey&show_icons=true&locale=en" alt="deepeshdubey" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepeshdubey&" alt="deepeshdubey" /></p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=deepeshdubey&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
