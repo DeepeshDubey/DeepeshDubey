@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://deepesh07.netlify.app/](https://deepesh07.netlify.app/)
 
-- 💬 Ask me about **React.js , Spring boot , Tailwing**
+- 💬 Ask me about **React.js , Spring boot , Tailwind**
 
 - 📫 How to reach me **deepeshdubey03@gmail.com**
 
