@@ -5,19 +5,36 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepeshdubey&label=Profile%20views&color=0e75b6&style=flat" alt="deepeshdubey" /> </p>
 
-# 💫 About Me:
+# 💫 About Me
 
-- 🌱 I’m currently learning **Spring Boot**
+- 👨‍💻 I'm **Deepesh Dubey**, a passionate **Software & Data Engineer** specializing in **PL/SQL Development**, **Data Engineering**, and **ETL Pipelines**.  
+- 🔭 Currently working at **Qualtech Edge** as a **PL/SQL Developer**, contributing to their in-house fintech product **MIFIN**.  
+- 💡 Experienced in **Oracle**, **Databricks**, **AWS**, and **Python** for data processing, analytics, and backend automation.  
+- 🌱 Currently learning **Spring Boot** to expand my backend development skills.  
+- 🚀 Love building **data pipelines**, optimizing **SQL queries**, and designing **scalable system architectures**.  
+- 💬 Ask me about **PL/SQL, Python, AWS, Databricks, or Data Modeling**.  
+- 📫 Reach me at **deepeshdubey03@gmail.com**  
+- 🌐 Portfolio: [[https://deepesh07.netlify.app/](https://deepesh07.netlify.app/)  ](https://deepesh007.netlify.app/)
+- 📄 Resume: [View My Resume](https://drive.google.com/file/d/132ggNSaG-Ph3s6tmtLqCxkF0lWE2F3UI/view?usp=share_link)  
+- ⚡ Fun fact: **I love exploring new places and playing football!**
 
-- 👨‍💻 All of my projects are available at [https://deepesh07.netlify.app/](https://deepesh07.netlify.app/)
+---
 
-- 💬 Ask me about **React.js , Spring boot , Tailwind**
+### 🧠 Tech Stack
+**Languages:** Java, Python, SQL, PL/SQL  
+**Cloud & DevOps:** AWS, Docker, Kubernetes  
+**Data Engineering:** Databricks, Spark, PySpark, Data Modeling, ETL  
+**Databases:** Oracle, Redshift  
+**Tools:** Git, GitHub, JIRA, JasperSoft Studio, MS Office  
+**IDEs:** VS Code, Databricks Notebook
 
-- 📫 How to reach me **deepeshdubey03@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/132ggNSaG-Ph3s6tmtLqCxkF0lWE2F3UI/view?usp=share_link](https://drive.google.com/file/d/132ggNSaG-Ph3s6tmtLqCxkF0lWE2F3UI/view?usp=share_link)
-
-- ⚡ Fun fact **I love exploring new hiking trails!**
+### 🏆 Achievements
+- 🥇 Qualified **Juspay Developer Hiring Challenge**  
+- ⭐ **5★ in SQL** and **5★ in Algorithms** on HackerRank  
+- 🏅 Awarded **Player of the Month** at Qualtech Edge for backend excellence
+  
 ## 🌐 Socials:
 
 <p align="left">
