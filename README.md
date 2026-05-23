@@ -3,7 +3,8 @@
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=740&t=st=1683165696~exp=1683166296~hmac=55086e16cd9e55d7cdb7a00de62ed60b4adff6e7275ded93d50d37cebe0f9484">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepeshdubey&label=Profile%20views&color=0e75b6&style=flat" alt="deepeshdubey" /> </p>
+<p align="left"><img width="426" height="426" alt="235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf" src="https://github.com/user-attachments/assets/9ced6dc6-83af-4f31-8f2e-8c31d5eb5a06" /></p>
+
 
 # 💫 About Me
 
