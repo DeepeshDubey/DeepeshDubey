@@ -1,10 +1,8 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
+<p align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/9ced6dc6-83af-4f31-8f2e-8c31d5eb5a06" />
+</p>
 <h1 align="center">Hi 👋, I'm Deepesh Dubey</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-
-
-<p align="left"><img width="426" height="426" alt="235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf" src="https://github.com/user-attachments/assets/9ced6dc6-83af-4f31-8f2e-8c31d5eb5a06" /></p>
-
 
 # 💫 About Me
 
