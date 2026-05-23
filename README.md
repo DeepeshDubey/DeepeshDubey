@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/9ced6dc6-83af-4f31-8f2e-8c31d5eb5a06" />
+  <img src="https://github.com/user-attachments/assets/9ced6dc6-83af-4f31-8c31d5eb5a06" style="width:100%; max-width:700px; height:auto;"/>
 </p>
+
 <h1 align="center">Hi 👋, I'm Deepesh Dubey</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
